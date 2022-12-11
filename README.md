@@ -22,25 +22,35 @@ AI has already been widely used in deciding investments. However, not many previ
 | Contents  | URL |
 | ------------- | ------------- |
 | Data Source | [Yahoo Finance](https://finance.yahoo.com) |
-| Queried Data  |   |
-| Processed Data  |   |
+| Queried Data  |  https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/tree/main/data/Queried%20data |
+| Processed Data  |  https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/tree/main/data/Processed_Data |
 
 
 ## Code
 | Contents  | URL |
 | ------------- | ------------- |
-| Process Data  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/blob/main/code/Process_Code_.ipynb  |
-| Analyze Data  | https://github.com/Jay2251929205/STATS201-prediction-tutorial/blob/main/code/Jiayi_Wang_Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion.ipynb  |
+| Process Data  |  https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/blob/main/code/Process_Code_.ipynb |
+| Analyze Data  |   |
 
 
 ## Spotlight
-- Poster:
+- **Posters**:
 
 ![poster](./spotlight/figures/Your%20paragraph%20text.jpg)
-[poster](https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/blob/main/spotlight/figures/Your%20paragraph%20text.jpg)
 Figure No.1. Project Poster
 
 **Figure No.1. Project poster, created by [Canva](https://www.canva.com)**
+
+- **Figures**:
+![RF1](./spotlight/figures/C-RF.png)
+Figure No.2. 
+
+**Figure No.2. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
+
+![RF1](./spotlight/figures/C-RF.png)
+Figure No.3. 
+
+**Figure No.3. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
 - Figures
 - Slides
 - Presentations
@@ -48,7 +58,9 @@ Figure No.1. Project Poster
 - Media appearance
 
 ## More about the Author
-- headshot
+Headshot: 
+
+<img width="460" height="440" src="./spotlight/11232435.png">)
 - self-introduction
 - Final reflections 
 
