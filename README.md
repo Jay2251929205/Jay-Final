@@ -35,7 +35,8 @@ AI has already been widely used in deciding investments. However, not many previ
 
 ## Spotlight
 - Poster:
-[poster]()
+./spotlight/figures/Your%20paragraph%20text.jpg
+[poster](https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/blob/main/spotlight/figures/Your%20paragraph%20text.jpg)
 Figure No.1. Project Poster
 
 **Figure No.1. Project poster, created by [Canva](https://www.canva.com)**
