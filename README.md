@@ -11,26 +11,26 @@ AI has already been widely used in deciding investments. However, not many previ
 ## Table of Contents
 | Contents  | URL |
 | ------------- | ------------- |
-| Data  | https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject#data |
-| Code  | https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject#code  |
-| Spotlight  | https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject#Spotlight  |
-| more about the author  | https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject#more-about-the-author |
-| references  | https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject#references  |
+| Data  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#data |
+| Code  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#code  |
+| Spotlight  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#Spotlight  |
+| more about the author  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#more-about-the-author |
+| references  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#references  |
 
 
 ## Data
 | Contents  | URL |
 | ------------- | ------------- |
 | Data Source | [Yahoo Finance](https://finance.yahoo.com) |
-| Queried Data  |  https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/tree/main/data/Queried%20data |
-| Processed Data  |  https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/tree/main/data/Processed_Data |
+| Queried Data  |  https://github.com/Rising-Stars-by-Sunshine/Jay-Final/tree/main/data/Queried%20data |
+| Processed Data  |  https://github.com/Rising-Stars-by-Sunshine/Jay-Final/tree/main/data/Processed_Data |
 
 
 ## Code
 | Contents  | URL |
 | ------------- | ------------- |
-| Process Data  |  https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/blob/main/code/Process_Code_.ipynb |
-| Analyze Data  |  https://github.com/Rising-Stars-by-Sunshine/Jiayi-Wang-FinalProject/blob/main/code/Jiayi_Wang_Analyze_Data_Machine_Learning_for_Predicting_ROI.ipynb |
+| Process Data  |  https://github.com/Rising-Stars-by-Sunshine/Jay-Final/blob/main/code/Process_Code_.ipynb |
+| Analyze Data  |  https://github.com/Rising-Stars-by-Sunshine/Jay-Final/blob/main/code/Jiayi_Wang_Analyze_Data_Machine_Learning_for_Predicting_ROI.ipynb |
 
 
 ## Spotlight
