@@ -6,7 +6,7 @@
 - **Acknowledgments**: I am deeply indebted to my professor Luyao Zhang for her invaluable patience and feedback. I could not started my journey without her instructions and help. Additionally, this endeavor would not have been possible without Yahoo Finance. I am also grateful to my classmates, especially for Josh's suggestions on my poster. Lastly, I would be remiss in not mentioning my family, especially my parents.
 - **Project Summary**: 
 - **Background & Motivation**:
-
+AI has already been widely used in deciding investments. However, not many previous studies have considered the transaction cost in the US stock market, which cannot verify its earning ability in the real world.
 - **Research Questions**:
 The portfolio constructed by which combination of the machine learning method and portfolio optimization model will have the highest net profit.
 - **Application Scenario(Data Source)**: 
@@ -20,11 +20,10 @@ Moreover, based on the former predictive results, we will input the data into me
 At last, considering the trade execution in the US stock market, we will deduct the transaction cost and work out the net profits. Then, we can compare the net profit of all the portfolios and find out which combination performs the best.
 
 - **Expected Results**: 
-We are expecting a result of high capital flow to ESG portfolio comes with high return of ESG portfolio.
+According to the previous results and implementation in the China securities 100 indexes, Random Forests machine learbning alogorithm combines with mean-variance for forecasting portfolio optimization model may still outperform othercombinations in the US stock market.
 
 - **Intellectual Merit & Practical Impacts**: 
-For the outperformance of the ESG portfolio, a refuge for investors during the pandemic, this project aims to figure out its advantages during the pandemic and predict its return under the new policy of Covid-19 prevention in China. The project will contribute to the application of machine-learning methods in market surveys and investment portfolio return prediction. The study considers capital flowing (spillover effects) into account, and thus it can provide a direction for the pricing and trading algorithms in a real-world implementation.
-
+The project will contribute to the application of machine learning methods in investment, and tell which algorithm can construct a better portfolio based on the prediction results. The study considers trade execution, taking transaction cost into account, and thus it can provide a direction for the improvement of the algorithms in a real-world implementation.
 
 ## Table of Contents
 | Contents  | URL |
@@ -83,7 +82,8 @@ Figure No.3 is the histogram of prediction value and true value using the algori
 - self-introduction:
 My name is Jiayi Wang. I am a junior at Duke Kunshan University. I major in Applied mathematics with track in Economics and Environment. I am interested in Computational Science, Blochchain, Chemistry and Finance.
 - Final reflections 
-
+First, we need to figure out what we want to predict and we want to use what to predict. 
+The discussion on applying machine learning methods to solve social science problems can be divided into three parts. The first part is data description. We can use a variety of data visualization methods, including histograms and heatmaps, to communicate social science problems to the public in a more concise and clear way, which is also convenient for us to conduct further analysis and interpretation. The second part is the data prediction. We input historical data containing X variables and Y variables into the machine, and then use machine learning algorithms to learn the data, thus to predict the Y variables we want. Data prediction provides a good tool for us to solve prediction problems in social sciences by traversing a large amount of historical data and looking for internal laws. For example, we can use historical stock prices to predict future stock market movements and provide decision suggestions for investors, companies and governments. The third part is causal inference. We conduct causal inference when social scientists want to explore the reasons why one variable in a system may affect another. Based on massive data and algorithms, machine learning evaluates the causal effect of each predictor variable on the outcome, making it more convenient to determine the causality.
 
 
 ## References
