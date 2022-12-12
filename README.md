@@ -76,12 +76,14 @@ Figure No.3 is the histogram of prediction value and true value using the algori
 
 
 ## More about the Author
-- Headshot: 
+- **Headshot** 
 
 <img width="460" height="440" src="./spotlight/11232435.png">)
-- self-introduction:
+- **self-introduction**
+
 My name is Jiayi Wang. I am a junior at Duke Kunshan University. I major in Applied mathematics with track in Economics and Environment. I am interested in Computational Science, Blochchain, Chemistry and Finance.
-- Final reflections 
+- **Final reflections**
+
 First, we need to figure out what we want to predict and we want to use what to predict. 
 The discussion on applying machine learning methods to solve social science problems can be divided into three parts. The first part is data description. We can use a variety of data visualization methods, including histograms and heatmaps, to communicate social science problems to the public in a more concise and clear way, which is also convenient for us to conduct further analysis and interpretation. The second part is the data prediction. We input historical data containing X variables and Y variables into the machine, and then use machine learning algorithms to learn the data, thus to predict the Y variables we want. Data prediction provides a good tool for us to solve prediction problems in social sciences by traversing a large amount of historical data and looking for internal laws. For example, we can use historical stock prices to predict future stock market movements and provide decision suggestions for investors, companies and governments. The third part is causal inference. We conduct causal inference when social scientists want to explore the reasons why one variable in a system may affect another. Based on massive data and algorithms, machine learning evaluates the causal effect of each predictor variable on the outcome, making it more convenient to determine the causality.
 
